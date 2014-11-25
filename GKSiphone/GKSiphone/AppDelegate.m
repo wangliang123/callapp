@@ -142,15 +142,6 @@ NSString *kGKSipUserLoginStateChange = @"kGKSipUserLoginStateChange";
     GKCallViewController *callViewController = [[GKCallViewController alloc] initWithNibName:@"GKCallViewController" bundle:nil];
     callViewController.tabBarItem.title = @"拨号键盘";
     callViewController.tabBarItem.image = [UIImage imageNamed:@"dialer.png"];
-    
-    
-    GKSettingViewController *settingViewController = [[GKSettingViewController alloc] initWithNibName:@"GKSettingViewController" bundle:nil];
-    UINavigationController *settingNav = [[UINavigationController alloc] initWithRootViewController:settingViewController];
-    GK_RELEASE(settingViewController);
-    settingNav.tabBarItem.title = @"更多";
-    settingNav.tabBarItem.image = [UIImage imageNamed:@"settings.png"];
-    
-    
     GKLogViewController *logoViewController = [[GKLogViewController alloc] initWithNibName:@"GKLogViewController" bundle:nil];
     UINavigationController *logoNav = [[UINavigationController alloc] initWithRootViewController:logoViewController];
     GK_RELEASE(logoViewController);
@@ -162,61 +153,12 @@ NSString *kGKSipUserLoginStateChange = @"kGKSipUserLoginStateChange";
     GK_RELEASE(contactViewController);
     contactNav.tabBarItem.title = @"通讯录";
     contactNav.tabBarItem.image = [UIImage imageNamed:@"contacts.png"];
-    
-    GKOnlineViewController *onlineViewController = [[GKOnlineViewController alloc] initWithNibName:@"GKOnlineViewController" bundle:nil];
-    UINavigationController *onlineNav = [[UINavigationController alloc] initWithRootViewController:onlineViewController];
-    GK_RELEASE(onlineViewController);
-    onlineNav.tabBarItem.title = @"在线";
-    onlineNav.tabBarItem.image = [UIImage imageNamed:@"online.png"];
-    
-    self.tabViewController.viewControllers = [NSArray arrayWithObjects:logoNav, contactNav, callViewController, settingNav, nil];
+    self.tabViewController.viewControllers = [NSArray arrayWithObjects:logoNav, contactNav, callViewController, nil];
     self.window.rootViewController = self.tabViewController;
     GK_RELEASE(logoNav);
     GK_RELEASE(contactNav);
-    GK_RELEASE(settingNav);
     GK_RELEASE(callViewController);
-    GK_RELEASE(onlineNav);
     GK_AUTORELEASE(self.tabViewController);
-    
-    
-    
-//    self.isBackground = NO;
-//    
-//    GKSipClient_SetSipCallEvent(OnSipCall);
-//    
-//    GKSipCallback callback;
-//    callback.GKsip_on_account_state = GKsip_on_account_state;
-//    callback.GKsip_on_call_state = GKsip_on_call_state;
-//    GKsip_status_t status = GKSipClient_Open(callback);
-//    
-//    self.atmHud = [[ATMHud alloc] initWithDelegate:self];
-//    [self.window addSubview:self.atmHud.view];
-//    
-//    if (status == GKSIP_SUCCESS)
-//    {
-//        [self login];
-//    }
-//    else
-//    {
-//        // 初始化失败, 由于装了其他VoIP的应用导致设备端口无法使用,
-//        // 需要关闭其他应用再重新初始化
-//        [GKAppDelegate showMsg:@"程序启动失败,请关闭其他程序。并重新启动该程序" isLoading:YES hideAfter:5.0];
-//    }
-//    
-//    Class mClass = NSClassFromString(@"UILocalNotification");
-//    
-//    if (mClass)
-//    {
-//        UILocalNotification *notification = [self.launchInfo objectForKey:UIApplicationLaunchOptionsLocalNotificationKey];
-//        
-//        if (notification)
-//        {
-//            NSInteger call_id = [[notification.userInfo objectForKey:@"callId"] integerValue];
-//            NSString *info = [notification.userInfo objectForKey:@"info"];
-//            
-//            [GKAppDelegate handleIncommingCall:call_id callName:info];
-//        }
-//    }
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
