@@ -1,0 +1,12 @@
+output/libmilenage-i386-apple-darwin12.2.0/milenage.o: ../../milenage/milenage.c ../../milenage/milenage.h \
+  ../../milenage/rijndael.h
+output/libmilenage-i386-apple-darwin12.2.0/rijndael.o: ../../milenage/rijndael.c ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h

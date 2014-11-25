@@ -1,0 +1,230 @@
+output/libilbccodec-i386-apple-darwin12.2.0/FrameClassify.o: ../../ilbc/FrameClassify.c ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h
+output/libilbccodec-i386-apple-darwin12.2.0/LPCdecode.o: ../../ilbc/LPCdecode.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/helpfun.h ../../ilbc/lsf.h \
+  ../../ilbc/iLBC_define.h ../../ilbc/constants.h
+output/libilbccodec-i386-apple-darwin12.2.0/LPCencode.o: ../../ilbc/LPCencode.c /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/iLBC_define.h ../../ilbc/helpfun.h ../../ilbc/lsf.h \
+  ../../ilbc/constants.h
+output/libilbccodec-i386-apple-darwin12.2.0/StateConstructW.o: ../../ilbc/StateConstructW.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/iLBC_define.h \
+  ../../ilbc/constants.h ../../ilbc/filter.h
+output/libilbccodec-i386-apple-darwin12.2.0/StateSearchW.o: ../../ilbc/StateSearchW.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/iLBC_define.h \
+  ../../ilbc/constants.h ../../ilbc/filter.h ../../ilbc/helpfun.h
+output/libilbccodec-i386-apple-darwin12.2.0/anaFilter.o: ../../ilbc/anaFilter.c /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/iLBC_define.h
+output/libilbccodec-i386-apple-darwin12.2.0/constants.o: ../../ilbc/constants.c ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h
+output/libilbccodec-i386-apple-darwin12.2.0/createCB.o: ../../ilbc/createCB.c ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/constants.h /usr/include/math.h
+output/libilbccodec-i386-apple-darwin12.2.0/doCPLC.o: ../../ilbc/doCPLC.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h /usr/include/stdio.h \
+  /usr/include/secure/_stdio.h ../../ilbc/iLBC_define.h
+output/libilbccodec-i386-apple-darwin12.2.0/enhancer.o: ../../ilbc/enhancer.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/iLBC_define.h \
+  ../../ilbc/constants.h ../../ilbc/filter.h
+output/libilbccodec-i386-apple-darwin12.2.0/filter.o: ../../ilbc/filter.c ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h
+output/libilbccodec-i386-apple-darwin12.2.0/gainquant.o: ../../ilbc/gainquant.c /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/math.h ../../ilbc/constants.h ../../ilbc/iLBC_define.h \
+  ../../ilbc/filter.h
+output/libilbccodec-i386-apple-darwin12.2.0/getCBvec.o: ../../ilbc/getCBvec.c ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/constants.h
+output/libilbccodec-i386-apple-darwin12.2.0/helpfun.o: ../../ilbc/helpfun.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/constants.h
+output/libilbccodec-i386-apple-darwin12.2.0/hpInput.o: ../../ilbc/hpInput.c ../../ilbc/constants.h \
+  ../../ilbc/iLBC_define.h /usr/include/string.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h
+output/libilbccodec-i386-apple-darwin12.2.0/hpOutput.o: ../../ilbc/hpOutput.c ../../ilbc/constants.h \
+  ../../ilbc/iLBC_define.h /usr/include/string.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h
+output/libilbccodec-i386-apple-darwin12.2.0/iCBConstruct.o: ../../ilbc/iCBConstruct.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/gainquant.h \
+  ../../ilbc/getCBvec.h
+output/libilbccodec-i386-apple-darwin12.2.0/iCBSearch.o: ../../ilbc/iCBSearch.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h ../../ilbc/iLBC_define.h \
+  ../../ilbc/gainquant.h ../../ilbc/createCB.h ../../ilbc/filter.h \
+  ../../ilbc/constants.h
+output/libilbccodec-i386-apple-darwin12.2.0/iLBC_decode.o: ../../ilbc/iLBC_decode.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/stdlib.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/i386/_structs.h \
+  /usr/include/sys/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/StateConstructW.h ../../ilbc/LPCdecode.h \
+  ../../ilbc/iCBConstruct.h ../../ilbc/doCPLC.h ../../ilbc/helpfun.h \
+  ../../ilbc/constants.h ../../ilbc/packing.h ../../ilbc/enhancer.h \
+  ../../ilbc/hpOutput.h ../../ilbc/syntFilter.h
+output/libilbccodec-i386-apple-darwin12.2.0/iLBC_encode.o: ../../ilbc/iLBC_encode.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/stdlib.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/i386/_structs.h \
+  /usr/include/sys/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h /usr/include/string.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/iLBC_define.h ../../ilbc/LPCencode.h \
+  ../../ilbc/FrameClassify.h ../../ilbc/StateSearchW.h \
+  ../../ilbc/StateConstructW.h ../../ilbc/helpfun.h \
+  ../../ilbc/constants.h ../../ilbc/packing.h ../../ilbc/iCBSearch.h \
+  ../../ilbc/iCBConstruct.h ../../ilbc/hpInput.h ../../ilbc/anaFilter.h \
+  ../../ilbc/syntFilter.h
+output/libilbccodec-i386-apple-darwin12.2.0/lsf.o: ../../ilbc/lsf.c /usr/include/string.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/math.h ../../ilbc/iLBC_define.h
+output/libilbccodec-i386-apple-darwin12.2.0/packing.o: ../../ilbc/packing.c /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/stdlib.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/i386/_structs.h \
+  /usr/include/sys/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  ../../ilbc/constants.h ../../ilbc/helpfun.h
+output/libilbccodec-i386-apple-darwin12.2.0/syntFilter.o: ../../ilbc/syntFilter.c ../../ilbc/iLBC_define.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h

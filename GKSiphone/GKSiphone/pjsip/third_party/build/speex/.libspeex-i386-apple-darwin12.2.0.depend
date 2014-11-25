@@ -1,0 +1,866 @@
+output/libspeex-i386-apple-darwin12.2.0/bits.o: ../../speex/libspeex/bits.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/cb_search.o: ../../speex/libspeex/cb_search.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/cb_search.h ../../speex/include/speex/speex_bits.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/filters.h \
+  ../../speex/libspeex/stack_alloc.h ../../speex/libspeex/vq.h \
+  ../../speex/libspeex/math_approx.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/exc_10_16_table.o: ../../speex/libspeex/exc_10_16_table.c
+output/libspeex-i386-apple-darwin12.2.0/exc_10_32_table.o: ../../speex/libspeex/exc_10_32_table.c
+output/libspeex-i386-apple-darwin12.2.0/exc_20_32_table.o: ../../speex/libspeex/exc_20_32_table.c
+output/libspeex-i386-apple-darwin12.2.0/exc_5_256_table.o: ../../speex/libspeex/exc_5_256_table.c
+output/libspeex-i386-apple-darwin12.2.0/exc_5_64_table.o: ../../speex/libspeex/exc_5_64_table.c
+output/libspeex-i386-apple-darwin12.2.0/exc_8_128_table.o: ../../speex/libspeex/exc_8_128_table.c
+output/libspeex-i386-apple-darwin12.2.0/fftwrap.o: ../../speex/libspeex/fftwrap.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h ../../speex/libspeex/kiss_fftr.h \
+  ../../speex/libspeex/kiss_fft.h /usr/include/math.h
+output/libspeex-i386-apple-darwin12.2.0/filterbank.o: ../../speex/libspeex/filterbank.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/filterbank.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h /usr/include/math.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  ../../speex/libspeex/math_approx.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/filters.o: ../../speex/libspeex/filters.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/filters.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/stack_alloc.h \
+  ../../speex/libspeex/math_approx.h ../../speex/libspeex/ltp.h \
+  ../../speex/include/speex/speex_bits.h /usr/include/math.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h
+output/libspeex-i386-apple-darwin12.2.0/gain_table.o: ../../speex/libspeex/gain_table.c
+output/libspeex-i386-apple-darwin12.2.0/gain_table_lbr.o: ../../speex/libspeex/gain_table_lbr.c
+output/libspeex-i386-apple-darwin12.2.0/hexc_10_32_table.o: ../../speex/libspeex/hexc_10_32_table.c
+output/libspeex-i386-apple-darwin12.2.0/hexc_table.o: ../../speex/libspeex/hexc_table.c
+output/libspeex-i386-apple-darwin12.2.0/high_lsp_tables.o: ../../speex/libspeex/high_lsp_tables.c
+output/libspeex-i386-apple-darwin12.2.0/kiss_fft.o: ../../speex/libspeex/kiss_fft.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/_kiss_fft_guts.h ../../speex/libspeex/kiss_fft.h \
+  /usr/include/stdlib.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/wait.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/sys/_structs.h \
+  /usr/include/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/resource.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h /usr/include/math.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h ../../speex/libspeex/fixed_generic.h \
+  ../../speex/libspeex/math_approx.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h
+output/libspeex-i386-apple-darwin12.2.0/kiss_fftr.o: ../../speex/libspeex/kiss_fftr.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/os_support.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/i386/_structs.h \
+  /usr/include/sys/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h ../../speex/libspeex/kiss_fftr.h \
+  ../../speex/libspeex/kiss_fft.h /usr/include/math.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h ../../speex/libspeex/fixed_generic.h \
+  ../../speex/libspeex/_kiss_fft_guts.h \
+  ../../speex/libspeex/math_approx.h
+output/libspeex-i386-apple-darwin12.2.0/lpc.o: ../../speex/libspeex/lpc.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/lpc.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h
+output/libspeex-i386-apple-darwin12.2.0/lsp.o: ../../speex/libspeex/lsp.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../speex/libspeex/lsp.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/stack_alloc.h \
+  ../../speex/libspeex/math_approx.h
+output/libspeex-i386-apple-darwin12.2.0/lsp_tables_nb.o: ../../speex/libspeex/lsp_tables_nb.c
+output/libspeex-i386-apple-darwin12.2.0/ltp.o: ../../speex/libspeex/ltp.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../speex/libspeex/ltp.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/stack_alloc.h \
+  ../../speex/libspeex/filters.h ../../speex/libspeex/math_approx.h \
+  ../../speex/libspeex/os_support.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/mdf.o: ../../speex/libspeex/mdf.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h \
+  ../../speex/include/speex/speex_echo.h \
+  ../../speex/include/speex/speex_types.h ../../speex/libspeex/fftwrap.h \
+  ../../speex/libspeex/pseudofloat.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h ../../speex/libspeex/math_approx.h \
+  /usr/include/math.h
+output/libspeex-i386-apple-darwin12.2.0/modes.o: ../../speex/libspeex/modes.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/modes.h ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/ltp.h \
+  ../../speex/libspeex/quant_lsp.h ../../speex/libspeex/cb_search.h \
+  ../../speex/libspeex/sb_celp.h ../../speex/libspeex/nb_celp.h \
+  ../../speex/include/speex/speex_callbacks.h \
+  ../../speex/include/speex/speex.h ../../speex/libspeex/vbr.h \
+  ../../speex/libspeex/filters.h /usr/include/math.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h
+output/libspeex-i386-apple-darwin12.2.0/modes_wb.o: ../../speex/libspeex/modes_wb.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/modes.h ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/ltp.h \
+  ../../speex/libspeex/quant_lsp.h ../../speex/libspeex/cb_search.h \
+  ../../speex/libspeex/sb_celp.h ../../speex/libspeex/nb_celp.h \
+  ../../speex/include/speex/speex_callbacks.h \
+  ../../speex/include/speex/speex.h ../../speex/libspeex/vbr.h \
+  ../../speex/libspeex/filters.h /usr/include/math.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  ../../speex/libspeex/os_support.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/nb_celp.o: ../../speex/libspeex/nb_celp.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../speex/libspeex/nb_celp.h \
+  ../../speex/libspeex/modes.h ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h \
+  ../../speex/include/speex/speex_callbacks.h \
+  ../../speex/include/speex/speex.h ../../speex/libspeex/vbr.h \
+  ../../speex/libspeex/filters.h ../../speex/libspeex/lpc.h \
+  ../../speex/libspeex/lsp.h ../../speex/libspeex/ltp.h \
+  ../../speex/libspeex/quant_lsp.h ../../speex/libspeex/cb_search.h \
+  ../../speex/libspeex/stack_alloc.h ../../speex/libspeex/vq.h \
+  ../../speex/libspeex/math_approx.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/preprocess.o: ../../speex/libspeex/preprocess.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h \
+  ../../speex/include/speex/speex_preprocess.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_echo.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/fftwrap.h \
+  ../../speex/libspeex/filterbank.h ../../speex/libspeex/math_approx.h \
+  ../../speex/libspeex/os_support.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/quant_lsp.o: ../../speex/libspeex/quant_lsp.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/quant_lsp.h ../../speex/include/speex/speex_bits.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h /usr/include/math.h
+output/libspeex-i386-apple-darwin12.2.0/resample.o: ../../speex/libspeex/resample.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/include/speex/speex_resampler.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h ../../speex/libspeex/stack_alloc.h \
+  /usr/include/math.h
+output/libspeex-i386-apple-darwin12.2.0/sb_celp.o: ../../speex/libspeex/sb_celp.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../speex/libspeex/sb_celp.h \
+  ../../speex/libspeex/modes.h ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/nb_celp.h \
+  ../../speex/include/speex/speex_callbacks.h \
+  ../../speex/include/speex/speex.h ../../speex/libspeex/vbr.h \
+  ../../speex/libspeex/filters.h ../../speex/libspeex/lpc.h \
+  ../../speex/libspeex/lsp.h ../../speex/libspeex/stack_alloc.h \
+  ../../speex/libspeex/cb_search.h ../../speex/libspeex/quant_lsp.h \
+  ../../speex/libspeex/vq.h ../../speex/libspeex/ltp.h \
+  ../../speex/libspeex/math_approx.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/smallft.o: ../../speex/libspeex/smallft.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../speex/libspeex/smallft.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/speex.o: ../../speex/libspeex/speex.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/modes.h ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_bits.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h /usr/include/math.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  ../../speex/libspeex/os_support.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/speex_callbacks.o: ../../speex/libspeex/speex_callbacks.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/include/speex/speex_callbacks.h \
+  ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/speex_header.o: ../../speex/libspeex/speex_header.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h \
+  ../../speex/include/speex/speex_header.h \
+  ../../speex/include/speex/speex_types.h \
+  ../../speex/include/speex/speex.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/libspeex/os_support.h /usr/include/string.h \
+  /usr/include/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/stereo.o: ../../speex/libspeex/stereo.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/include/speex/speex_stereo.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/include/speex/speex_bits.h \
+  ../../speex/include/speex/speex_callbacks.h \
+  ../../speex/include/speex/speex.h ../../speex/libspeex/math_approx.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/vq.h \
+  /usr/include/math.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h ../../speex/libspeex/os_support.h \
+  /usr/include/string.h /usr/include/_types.h /usr/include/strings.h \
+  /usr/include/secure/_string.h /usr/include/secure/_common.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/alloca.h
+output/libspeex-i386-apple-darwin12.2.0/vbr.o: ../../speex/libspeex/vbr.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/vbr.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h /usr/include/math.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h
+output/libspeex-i386-apple-darwin12.2.0/vq.o: ../../speex/libspeex/vq.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/vq.h ../../speex/libspeex/arch.h \
+  ../../speex/include/speex/speex_types.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h ../../speex/libspeex/stack_alloc.h
+output/libspeex-i386-apple-darwin12.2.0/window.o: ../../speex/libspeex/window.c config.h \
+  ../../../pjlib/include/pj/types.h ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../../pjlib/include/pj/log.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  ../../speex/libspeex/arch.h ../../speex/include/speex/speex_types.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  ../../speex/libspeex/fixed_generic.h
