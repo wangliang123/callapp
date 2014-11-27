@@ -55,6 +55,7 @@ static SystemSoundID sounds[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
     [self.dialLabel.layer setBorderWidth:1.0];
     [self.dialLabel setBackgroundColor:[UIColor colorWithRed:70.0f/255.0f green:105.0f/255.0f blue:192.0f/255.0f alpha:1.0f]];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(youObserv:) name:@"eit" object:nil];
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"背景.png"]];
     
 }
 -(void)youObserv:(NSNotification*)noti

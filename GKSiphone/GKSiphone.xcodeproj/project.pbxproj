@@ -302,12 +302,12 @@
 		15DAD993169E713E00BE4112 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		15DAD995169E713E00BE4112 /* GKSiphone-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GKSiphone-Prefix.pch"; sourceTree = "<group>"; };
 		15DAD996169E713E00BE4112 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		15DAD997169E713E00BE4112 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		15DAD997169E713E00BE4112 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AppDelegate.m; sourceTree = "<group>"; wrapsLines = 0; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		15DAD999169E713E00BE4112 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		15DAD99B169E713E00BE4112 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		15DAD99D169E713E00BE4112 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		15DAD9AA169E71CA00BE4112 /* GKCallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GKCallViewController.h; sourceTree = "<group>"; };
-		15DAD9AB169E71CA00BE4112 /* GKCallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = GKCallViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		15DAD9AB169E71CA00BE4112 /* GKCallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = GKCallViewController.m; sourceTree = "<group>"; wrapsLines = 0; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		15DAD9AC169E71CA00BE4112 /* GKCallViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GKCallViewController.xib; sourceTree = "<group>"; };
 		15DAD9B5169E8FE700BE4112 /* libg7221codec-arm-apple-darwin9.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libg7221codec-arm-apple-darwin9.a"; sourceTree = "<group>"; };
 		15DAD9B6169E8FE700BE4112 /* libgsmcodec-arm-apple-darwin9.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libgsmcodec-arm-apple-darwin9.a"; sourceTree = "<group>"; };
@@ -773,9 +773,6 @@
 		15DAD98D169E713E00BE4112 /* GKSiphone */ = {
 			isa = PBXGroup;
 			children = (
-				AEEF22421A26A15200E21A9D /* New Group2 */,
-				AEEF22411A26A14000E21A9D /* New Group1 */,
-				AEEF22401A26A13600E21A9D /* New Group */,
 				15B6274B16A9021E00298CE7 /* GKLib */,
 				15DADA57169ECD1200BE4112 /* Model */,
 				15DADA0D169E93B800BE4112 /* gksip */,
@@ -1118,27 +1115,6 @@
 				AEEF22681A26A18200E21A9D /* icon搜索@2x.png */,
 			);
 			name = image;
-			sourceTree = "<group>";
-		};
-		AEEF22401A26A13600E21A9D /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "New Group";
-			sourceTree = "<group>";
-		};
-		AEEF22411A26A14000E21A9D /* New Group1 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "New Group1";
-			sourceTree = "<group>";
-		};
-		AEEF22421A26A15200E21A9D /* New Group2 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "New Group2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
