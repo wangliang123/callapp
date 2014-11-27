@@ -42,6 +42,7 @@
     self.navigationItem.rightBarButtonItem = editBtnItem;
     self.title = @"最近通话";
     self.navigationController.navigationBar.barStyle = UIBarStyleBlack;
+    self.contentTableView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"背景.png"]];
 }
 
 - (void)viewDidAppear:(BOOL)animated

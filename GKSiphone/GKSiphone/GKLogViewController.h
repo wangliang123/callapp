@@ -14,4 +14,5 @@
     NSDateFormatter *_weekdayFormatter;
     NSDateFormatter *_hourFormatter;
 }
+@property (strong, nonatomic) IBOutlet UITableView *contentTableView;
 @end

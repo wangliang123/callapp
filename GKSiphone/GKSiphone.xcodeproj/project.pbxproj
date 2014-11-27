@@ -445,7 +445,7 @@
 		24DFC0B116B645B500DF9DB6 /* decline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = decline.png; sourceTree = "<group>"; };
 		24DFC0B216B645B500DF9DB6 /* decline@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "decline@2x.png"; sourceTree = "<group>"; };
 		24F2CF8E16B0DFFE003ED6E5 /* GKLogViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GKLogViewController.h; sourceTree = "<group>"; };
-		24F2CF8F16B0DFFE003ED6E5 /* GKLogViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GKLogViewController.m; sourceTree = "<group>"; };
+		24F2CF8F16B0DFFE003ED6E5 /* GKLogViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GKLogViewController.m; sourceTree = "<group>"; wrapsLines = 0; };
 		24F2CF9016B0DFFE003ED6E5 /* GKLogViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GKLogViewController.xib; sourceTree = "<group>"; };
 		24F2D17316B0E6C9003ED6E5 /* dtmf-10.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dtmf-10.aif"; sourceTree = "<group>"; };
 		24F2D17416B0E6C9003ED6E5 /* dtmf-0.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dtmf-0.aif"; sourceTree = "<group>"; };
