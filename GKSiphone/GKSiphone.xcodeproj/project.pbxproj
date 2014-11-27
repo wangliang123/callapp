@@ -207,6 +207,44 @@
 		8285321F1771575F00E5EF5F /* listbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8285321C1771575F00E5EF5F /* listbg@2x.png */; };
 		82E3CDEC174A15BD002593B0 /* GKActiveCallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82E3CDEA174A15BD002593B0 /* GKActiveCallViewController.m */; };
 		82E3CDED174A15BD002593B0 /* GKActiveCallViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 82E3CDEB174A15BD002593B0 /* GKActiveCallViewController.xib */; };
+		AEEF22691A26A18200E21A9D /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22431A26A18200E21A9D /* 0.png */; };
+		AEEF226A1A26A18200E21A9D /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22441A26A18200E21A9D /* 1.png */; };
+		AEEF226B1A26A18200E21A9D /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22451A26A18200E21A9D /* 2.png */; };
+		AEEF226C1A26A18200E21A9D /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22461A26A18200E21A9D /* 3.png */; };
+		AEEF226D1A26A18200E21A9D /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22471A26A18200E21A9D /* 4.png */; };
+		AEEF226E1A26A18200E21A9D /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22481A26A18200E21A9D /* 5.png */; };
+		AEEF226F1A26A18200E21A9D /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22491A26A18200E21A9D /* 6.png */; };
+		AEEF22701A26A18200E21A9D /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF224A1A26A18200E21A9D /* 7.png */; };
+		AEEF22711A26A18200E21A9D /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF224B1A26A18200E21A9D /* 8.png */; };
+		AEEF22721A26A18200E21A9D /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF224C1A26A18200E21A9D /* 9.png */; };
+		AEEF22731A26A18200E21A9D /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF224D1A26A18200E21A9D /* 10.png */; };
+		AEEF22741A26A18200E21A9D /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF224E1A26A18200E21A9D /* 11.png */; };
+		AEEF22751A26A18200E21A9D /* 按键背景背景.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF224F1A26A18200E21A9D /* 按键背景背景.png */; };
+		AEEF22761A26A18200E21A9D /* 背景@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22501A26A18200E21A9D /* 背景@2x.png */; };
+		AEEF22771A26A18200E21A9D /* 登陆.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22511A26A18200E21A9D /* 登陆.png */; };
+		AEEF22781A26A18200E21A9D /* 登录背景.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22521A26A18200E21A9D /* 登录背景.png */; };
+		AEEF22791A26A18200E21A9D /* 键盘.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22531A26A18200E21A9D /* 键盘.png */; };
+		AEEF227A1A26A18200E21A9D /* 列表点击态.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22541A26A18200E21A9D /* 列表点击态.png */; };
+		AEEF227B1A26A18200E21A9D /* 列表icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22551A26A18200E21A9D /* 列表icon@2x.png */; };
+		AEEF227C1A26A18200E21A9D /* 列表icon1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22561A26A18200E21A9D /* 列表icon1@2x.png */; };
+		AEEF227D1A26A18200E21A9D /* 密码.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22571A26A18200E21A9D /* 密码.png */; };
+		AEEF227E1A26A18200E21A9D /* 启动背景-loading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22581A26A18200E21A9D /* 启动背景-loading@2x.png */; };
+		AEEF227F1A26A18200E21A9D /* 启动背景@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22591A26A18200E21A9D /* 启动背景@2x.png */; };
+		AEEF22801A26A18200E21A9D /* 搜索.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF225A1A26A18200E21A9D /* 搜索.png */; };
+		AEEF22811A26A18200E21A9D /* 搜索bg.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF225B1A26A18200E21A9D /* 搜索bg.png */; };
+		AEEF22821A26A18200E21A9D /* btn按钮背景-点击态.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF225C1A26A18200E21A9D /* btn按钮背景-点击态.png */; };
+		AEEF22831A26A18200E21A9D /* btn按钮背景-灰.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF225D1A26A18200E21A9D /* btn按钮背景-灰.png */; };
+		AEEF22841A26A18200E21A9D /* btn按钮背景-绿.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF225E1A26A18200E21A9D /* btn按钮背景-绿.png */; };
+		AEEF22851A26A18200E21A9D /* btn按钮背景.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF225F1A26A18200E21A9D /* btn按钮背景.png */; };
+		AEEF22861A26A18200E21A9D /* icon-风车@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22601A26A18200E21A9D /* icon-风车@2x.png */; };
+		AEEF22871A26A18200E21A9D /* icon1-点击态@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22611A26A18200E21A9D /* icon1-点击态@2x.png */; };
+		AEEF22881A26A18200E21A9D /* icon1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22621A26A18200E21A9D /* icon1@2x.png */; };
+		AEEF22891A26A18200E21A9D /* icon2-点击态@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22631A26A18200E21A9D /* icon2-点击态@2x.png */; };
+		AEEF228A1A26A18200E21A9D /* icon2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22641A26A18200E21A9D /* icon2@2x.png */; };
+		AEEF228B1A26A18200E21A9D /* icon3-点击态@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22651A26A18200E21A9D /* icon3-点击态@2x.png */; };
+		AEEF228C1A26A18200E21A9D /* icon3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22661A26A18200E21A9D /* icon3@2x.png */; };
+		AEEF228D1A26A18200E21A9D /* icon返回@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22671A26A18200E21A9D /* icon返回@2x.png */; };
+		AEEF228E1A26A18200E21A9D /* icon搜索@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEEF22681A26A18200E21A9D /* icon搜索@2x.png */; };
 		FD37CEE01A04A54C00771010 /* IPAddress.m in Sources */ = {isa = PBXBuildFile; fileRef = FD37CEDF1A04A54C00771010 /* IPAddress.m */; };
 /* End PBXBuildFile section */
 
@@ -487,6 +525,44 @@
 		82E3CDE9174A15BD002593B0 /* GKActiveCallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GKActiveCallViewController.h; sourceTree = "<group>"; };
 		82E3CDEA174A15BD002593B0 /* GKActiveCallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = GKActiveCallViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		82E3CDEB174A15BD002593B0 /* GKActiveCallViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GKActiveCallViewController.xib; sourceTree = "<group>"; };
+		AEEF22431A26A18200E21A9D /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		AEEF22441A26A18200E21A9D /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		AEEF22451A26A18200E21A9D /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		AEEF22461A26A18200E21A9D /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		AEEF22471A26A18200E21A9D /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		AEEF22481A26A18200E21A9D /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		AEEF22491A26A18200E21A9D /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		AEEF224A1A26A18200E21A9D /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		AEEF224B1A26A18200E21A9D /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		AEEF224C1A26A18200E21A9D /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		AEEF224D1A26A18200E21A9D /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		AEEF224E1A26A18200E21A9D /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		AEEF224F1A26A18200E21A9D /* 按键背景背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "按键背景背景.png"; sourceTree = "<group>"; };
+		AEEF22501A26A18200E21A9D /* 背景@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "背景@2x.png"; sourceTree = "<group>"; };
+		AEEF22511A26A18200E21A9D /* 登陆.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "登陆.png"; sourceTree = "<group>"; };
+		AEEF22521A26A18200E21A9D /* 登录背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "登录背景.png"; sourceTree = "<group>"; };
+		AEEF22531A26A18200E21A9D /* 键盘.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "键盘.png"; sourceTree = "<group>"; };
+		AEEF22541A26A18200E21A9D /* 列表点击态.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "列表点击态.png"; sourceTree = "<group>"; };
+		AEEF22551A26A18200E21A9D /* 列表icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "列表icon@2x.png"; sourceTree = "<group>"; };
+		AEEF22561A26A18200E21A9D /* 列表icon1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "列表icon1@2x.png"; sourceTree = "<group>"; };
+		AEEF22571A26A18200E21A9D /* 密码.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "密码.png"; sourceTree = "<group>"; };
+		AEEF22581A26A18200E21A9D /* 启动背景-loading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "启动背景-loading@2x.png"; sourceTree = "<group>"; };
+		AEEF22591A26A18200E21A9D /* 启动背景@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "启动背景@2x.png"; sourceTree = "<group>"; };
+		AEEF225A1A26A18200E21A9D /* 搜索.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "搜索.png"; sourceTree = "<group>"; };
+		AEEF225B1A26A18200E21A9D /* 搜索bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "搜索bg.png"; sourceTree = "<group>"; };
+		AEEF225C1A26A18200E21A9D /* btn按钮背景-点击态.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn按钮背景-点击态.png"; sourceTree = "<group>"; };
+		AEEF225D1A26A18200E21A9D /* btn按钮背景-灰.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn按钮背景-灰.png"; sourceTree = "<group>"; };
+		AEEF225E1A26A18200E21A9D /* btn按钮背景-绿.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn按钮背景-绿.png"; sourceTree = "<group>"; };
+		AEEF225F1A26A18200E21A9D /* btn按钮背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn按钮背景.png"; sourceTree = "<group>"; };
+		AEEF22601A26A18200E21A9D /* icon-风车@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-风车@2x.png"; sourceTree = "<group>"; };
+		AEEF22611A26A18200E21A9D /* icon1-点击态@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon1-点击态@2x.png"; sourceTree = "<group>"; };
+		AEEF22621A26A18200E21A9D /* icon1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon1@2x.png"; sourceTree = "<group>"; };
+		AEEF22631A26A18200E21A9D /* icon2-点击态@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon2-点击态@2x.png"; sourceTree = "<group>"; };
+		AEEF22641A26A18200E21A9D /* icon2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon2@2x.png"; sourceTree = "<group>"; };
+		AEEF22651A26A18200E21A9D /* icon3-点击态@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon3-点击态@2x.png"; sourceTree = "<group>"; };
+		AEEF22661A26A18200E21A9D /* icon3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon3@2x.png"; sourceTree = "<group>"; };
+		AEEF22671A26A18200E21A9D /* icon返回@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon返回@2x.png"; sourceTree = "<group>"; };
+		AEEF22681A26A18200E21A9D /* icon搜索@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon搜索@2x.png"; sourceTree = "<group>"; };
 		FD37CEDE1A04A54C00771010 /* IPAddress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPAddress.h; sourceTree = "<group>"; };
 		FD37CEDF1A04A54C00771010 /* IPAddress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPAddress.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -648,6 +724,7 @@
 		15DAD978169E713E00BE4112 = {
 			isa = PBXGroup;
 			children = (
+				AEEF223F1A26A12900E21A9D /* image */,
 				3111A7CB19D162CD0058D2E8 /* Common */,
 				3111A7D919D162CD0058D2E8 /* SourceTree */,
 				3111A7C419D14BAE0058D2E8 /* IPServerManager */,
@@ -696,6 +773,9 @@
 		15DAD98D169E713E00BE4112 /* GKSiphone */ = {
 			isa = PBXGroup;
 			children = (
+				AEEF22421A26A15200E21A9D /* New Group2 */,
+				AEEF22411A26A14000E21A9D /* New Group1 */,
+				AEEF22401A26A13600E21A9D /* New Group */,
 				15B6274B16A9021E00298CE7 /* GKLib */,
 				15DADA57169ECD1200BE4112 /* Model */,
 				15DADA0D169E93B800BE4112 /* gksip */,
@@ -995,6 +1075,72 @@
 			path = GKSiphone/SourceTree;
 			sourceTree = "<group>";
 		};
+		AEEF223F1A26A12900E21A9D /* image */ = {
+			isa = PBXGroup;
+			children = (
+				AEEF22431A26A18200E21A9D /* 0.png */,
+				AEEF22441A26A18200E21A9D /* 1.png */,
+				AEEF22451A26A18200E21A9D /* 2.png */,
+				AEEF22461A26A18200E21A9D /* 3.png */,
+				AEEF22471A26A18200E21A9D /* 4.png */,
+				AEEF22481A26A18200E21A9D /* 5.png */,
+				AEEF22491A26A18200E21A9D /* 6.png */,
+				AEEF224A1A26A18200E21A9D /* 7.png */,
+				AEEF224B1A26A18200E21A9D /* 8.png */,
+				AEEF224C1A26A18200E21A9D /* 9.png */,
+				AEEF224D1A26A18200E21A9D /* 10.png */,
+				AEEF224E1A26A18200E21A9D /* 11.png */,
+				AEEF224F1A26A18200E21A9D /* 按键背景背景.png */,
+				AEEF22501A26A18200E21A9D /* 背景@2x.png */,
+				AEEF22511A26A18200E21A9D /* 登陆.png */,
+				AEEF22521A26A18200E21A9D /* 登录背景.png */,
+				AEEF22531A26A18200E21A9D /* 键盘.png */,
+				AEEF22541A26A18200E21A9D /* 列表点击态.png */,
+				AEEF22551A26A18200E21A9D /* 列表icon@2x.png */,
+				AEEF22561A26A18200E21A9D /* 列表icon1@2x.png */,
+				AEEF22571A26A18200E21A9D /* 密码.png */,
+				AEEF22581A26A18200E21A9D /* 启动背景-loading@2x.png */,
+				AEEF22591A26A18200E21A9D /* 启动背景@2x.png */,
+				AEEF225A1A26A18200E21A9D /* 搜索.png */,
+				AEEF225B1A26A18200E21A9D /* 搜索bg.png */,
+				AEEF225C1A26A18200E21A9D /* btn按钮背景-点击态.png */,
+				AEEF225D1A26A18200E21A9D /* btn按钮背景-灰.png */,
+				AEEF225E1A26A18200E21A9D /* btn按钮背景-绿.png */,
+				AEEF225F1A26A18200E21A9D /* btn按钮背景.png */,
+				AEEF22601A26A18200E21A9D /* icon-风车@2x.png */,
+				AEEF22611A26A18200E21A9D /* icon1-点击态@2x.png */,
+				AEEF22621A26A18200E21A9D /* icon1@2x.png */,
+				AEEF22631A26A18200E21A9D /* icon2-点击态@2x.png */,
+				AEEF22641A26A18200E21A9D /* icon2@2x.png */,
+				AEEF22651A26A18200E21A9D /* icon3-点击态@2x.png */,
+				AEEF22661A26A18200E21A9D /* icon3@2x.png */,
+				AEEF22671A26A18200E21A9D /* icon返回@2x.png */,
+				AEEF22681A26A18200E21A9D /* icon搜索@2x.png */,
+			);
+			name = image;
+			sourceTree = "<group>";
+		};
+		AEEF22401A26A13600E21A9D /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
+		AEEF22411A26A14000E21A9D /* New Group1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group1";
+			sourceTree = "<group>";
+		};
+		AEEF22421A26A15200E21A9D /* New Group2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group2";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1048,21 +1194,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEEF226D1A26A18200E21A9D /* 4.png in Resources */,
 				15DAD992169E713E00BE4112 /* InfoPlist.strings in Resources */,
 				15DAD99A169E713E00BE4112 /* Default.png in Resources */,
 				15DAD99C169E713E00BE4112 /* Default@2x.png in Resources */,
 				15DAD99E169E713E00BE4112 /* Default-568h@2x.png in Resources */,
 				15DAD9AE169E71CA00BE4112 /* GKCallViewController.xib in Resources */,
+				AEEF227C1A26A18200E21A9D /* 列表icon1@2x.png in Resources */,
 				15DADA45169E9FFC00BE4112 /* gkSipConfig.xml in Resources */,
 				15DADA56169EC84000BE4112 /* GKInfoViewController.xib in Resources */,
 				15E807B8169FBEE100157814 /* ring.caf in Resources */,
 				15E807B9169FBEE100157814 /* ring.wav in Resources */,
+				AEEF226A1A26A18200E21A9D /* 1.png in Resources */,
 				15B626F516A8F60A00298CE7 /* contacts.png in Resources */,
 				15B626F616A8F60A00298CE7 /* contacts@2x.png in Resources */,
+				AEEF22761A26A18200E21A9D /* 背景@2x.png in Resources */,
 				15B626F716A8F60A00298CE7 /* dialer.png in Resources */,
 				15B626F816A8F60A00298CE7 /* dialer@2x.png in Resources */,
 				15B626FA16A8F60A00298CE7 /* recents@2x.png in Resources */,
+				AEEF22821A26A18200E21A9D /* btn按钮背景-点击态.png in Resources */,
 				15B626FB16A8F60A00298CE7 /* settings.png in Resources */,
+				AEEF22781A26A18200E21A9D /* 登录背景.png in Resources */,
+				AEEF227D1A26A18200E21A9D /* 密码.png in Resources */,
+				AEEF22721A26A18200E21A9D /* 9.png in Resources */,
 				15B626FE16A8F63300298CE7 /* recents.png in Resources */,
 				15B6270616A8F8BF00298CE7 /* Icon-72.png in Resources */,
 				15B6270716A8F8BF00298CE7 /* Icon-72@2x.png in Resources */,
@@ -1071,20 +1225,30 @@
 				15B6276D16A925B800298CE7 /* dialerkeypad@2x.png in Resources */,
 				15B6276E16A925B800298CE7 /* settings@2x.png in Resources */,
 				15B6277916A926EF00298CE7 /* addcontact_pressed.png in Resources */,
+				AEEF227F1A26A18200E21A9D /* 启动背景@2x.png in Resources */,
 				15B6277A16A926EF00298CE7 /* addcontact_pressed@2x.png in Resources */,
 				15B6277B16A926EF00298CE7 /* addcontact.png in Resources */,
+				AEEF22771A26A18200E21A9D /* 登陆.png in Resources */,
 				15B6277C16A926EF00298CE7 /* addcontact@2x.png in Resources */,
+				AEEF22841A26A18200E21A9D /* btn按钮背景-绿.png in Resources */,
 				15B6277D16A926EF00298CE7 /* call.png in Resources */,
 				15B6277E16A926EF00298CE7 /* callblue.png in Resources */,
 				15B6277F16A926EF00298CE7 /* delete_pressed.png in Resources */,
 				15B6278016A926EF00298CE7 /* delete_pressed@2x.png in Resources */,
+				AEEF228E1A26A18200E21A9D /* icon搜索@2x.png in Resources */,
 				15B6278116A926EF00298CE7 /* delete.png in Resources */,
 				15B6278216A926EF00298CE7 /* delete@2x.png in Resources */,
+				AEEF226C1A26A18200E21A9D /* 3.png in Resources */,
 				15DD637D16AA3B1D00A94D4A /* dialerkeypad_pressed.png in Resources */,
+				AEEF22861A26A18200E21A9D /* icon-风车@2x.png in Resources */,
 				15DD638E16AA3F5500A94D4A /* 0_pressed.png in Resources */,
+				AEEF228C1A26A18200E21A9D /* icon3@2x.png in Resources */,
 				15DD638F16AA3F5500A94D4A /* 1_pressed.png in Resources */,
 				15DD639016AA3F5500A94D4A /* 2_pressed.png in Resources */,
+				AEEF22851A26A18200E21A9D /* btn按钮背景.png in Resources */,
+				AEEF227B1A26A18200E21A9D /* 列表icon@2x.png in Resources */,
 				15DD639116AA3F5500A94D4A /* 3_pressed.png in Resources */,
+				AEEF228D1A26A18200E21A9D /* icon返回@2x.png in Resources */,
 				15DD639216AA3F5500A94D4A /* 4_pressed.png in Resources */,
 				15DD639316AA3F5500A94D4A /* 5_pressed.png in Resources */,
 				15DD639416AA3F5500A94D4A /* 6_pressed.png in Resources */,
@@ -1093,23 +1257,33 @@
 				15DD639716AA3F5500A94D4A /* 9_pressed.png in Resources */,
 				15DD639816AA3F5500A94D4A /* 11_pressed.png in Resources */,
 				15DD639916AA3F5500A94D4A /* 12_pressed.png in Resources */,
+				AEEF22751A26A18200E21A9D /* 按键背景背景.png in Resources */,
 				15DD63B616AA766700A94D4A /* GKContactViewController.xib in Resources */,
+				AEEF22731A26A18200E21A9D /* 10.png in Resources */,
 				24F2CF9216B0DFFE003ED6E5 /* GKLogViewController.xib in Resources */,
 				24F2D17F16B0E6C9003ED6E5 /* dtmf-10.aif in Resources */,
 				24F2D18016B0E6C9003ED6E5 /* dtmf-0.aif in Resources */,
 				24F2D18116B0E6C9003ED6E5 /* dtmf-1.aif in Resources */,
 				24F2D18216B0E6C9003ED6E5 /* dtmf-2.aif in Resources */,
+				AEEF228A1A26A18200E21A9D /* icon2@2x.png in Resources */,
 				24F2D18316B0E6C9003ED6E5 /* dtmf-3.aif in Resources */,
 				24F2D18416B0E6C9003ED6E5 /* dtmf-4.aif in Resources */,
 				24F2D18516B0E6C9003ED6E5 /* dtmf-5.aif in Resources */,
+				AEEF22741A26A18200E21A9D /* 11.png in Resources */,
+				AEEF228B1A26A18200E21A9D /* icon3-点击态@2x.png in Resources */,
+				AEEF227A1A26A18200E21A9D /* 列表点击态.png in Resources */,
 				24F2D18616B0E6C9003ED6E5 /* dtmf-6.aif in Resources */,
 				24F2D18716B0E6C9003ED6E5 /* dtmf-7.aif in Resources */,
 				24F2D18816B0E6C9003ED6E5 /* dtmf-8.aif in Resources */,
 				24F2D18916B0E6C9003ED6E5 /* dtmf-9.aif in Resources */,
+				AEEF226E1A26A18200E21A9D /* 5.png in Resources */,
+				AEEF22791A26A18200E21A9D /* 键盘.png in Resources */,
 				24F2D18A16B0E6C9003ED6E5 /* dtmf-11.aif in Resources */,
 				24F2D1F116B11C46003ED6E5 /* GKSettingViewController.xib in Resources */,
 				24F2D1F816B12D32003ED6E5 /* GKPwdViewController.xib in Resources */,
 				24DFC09F16B6424200DF9DB6 /* bottombarblue_pressed.png in Resources */,
+				AEEF22831A26A18200E21A9D /* btn按钮背景-灰.png in Resources */,
+				AEEF22801A26A18200E21A9D /* 搜索.png in Resources */,
 				24DFC0A016B6424200DF9DB6 /* bottombarblue_pressed@2x.png in Resources */,
 				24DFC0A116B6424200DF9DB6 /* bottombarblue.png in Resources */,
 				24DFC0A216B6424200DF9DB6 /* bottombarblue@2x.png in Resources */,
@@ -1117,13 +1291,18 @@
 				24DFC0A416B6424200DF9DB6 /* bottombardarkgray_pressed@2x.png in Resources */,
 				24DFC0A516B6424200DF9DB6 /* bottombardarkgray.png in Resources */,
 				24DFC0A616B6424200DF9DB6 /* bottombardarkgray@2x.png in Resources */,
+				AEEF226F1A26A18200E21A9D /* 6.png in Resources */,
 				24DFC0A716B6424200DF9DB6 /* bottombargreen_pressed.png in Resources */,
+				AEEF22701A26A18200E21A9D /* 7.png in Resources */,
 				24DFC0A816B6424200DF9DB6 /* bottombargreen_pressed@2x.png in Resources */,
+				AEEF227E1A26A18200E21A9D /* 启动背景-loading@2x.png in Resources */,
 				24DFC0A916B6424200DF9DB6 /* bottombargreen.png in Resources */,
 				24DFC0AA16B6424200DF9DB6 /* bottombargreen@2x.png in Resources */,
 				24DFC0AB16B6424200DF9DB6 /* bottombarred_pressed.png in Resources */,
 				24DFC0AC16B6424200DF9DB6 /* bottombarred_pressed@2x.png in Resources */,
 				24DFC0AD16B6424200DF9DB6 /* bottombarred.png in Resources */,
+				AEEF22691A26A18200E21A9D /* 0.png in Resources */,
+				AEEF22881A26A18200E21A9D /* icon1@2x.png in Resources */,
 				24DFC0AE16B6424200DF9DB6 /* bottombarred@2x.png in Resources */,
 				24DFC0B316B645B500DF9DB6 /* answer.png in Resources */,
 				24DFC0B416B645B500DF9DB6 /* answer@2x.png in Resources */,
@@ -1132,12 +1311,17 @@
 				2421045B16B7A2ED001E3EF5 /* online.png in Resources */,
 				2421045C16B7A2ED001E3EF5 /* online@2x.png in Resources */,
 				2421046116B7A306001E3EF5 /* GKOnlineViewController.xib in Resources */,
+				AEEF22711A26A18200E21A9D /* 8.png in Resources */,
 				2421046416B7A723001E3EF5 /* reload.png in Resources */,
+				AEEF22871A26A18200E21A9D /* icon1-点击态@2x.png in Resources */,
 				2421046516B7A723001E3EF5 /* reload@2x.png in Resources */,
+				AEEF22811A26A18200E21A9D /* 搜索bg.png in Resources */,
 				82E3CDED174A15BD002593B0 /* GKActiveCallViewController.xib in Resources */,
 				824C89221769CBD800AD3167 /* ReferralViewController.xib in Resources */,
 				824C89271769CC2900AD3167 /* AboutViewController.xib in Resources */,
+				AEEF22891A26A18200E21A9D /* icon2-点击态@2x.png in Resources */,
 				82853217177155E900E5EF5F /* icon@2x.png in Resources */,
+				AEEF226B1A26A18200E21A9D /* 2.png in Resources */,
 				828532191771564500E5EF5F /* icon.png in Resources */,
 				8285321D1771575F00E5EF5F /* listbg-568h@2x.png in Resources */,
 				8285321E1771575F00E5EF5F /* listbg.png in Resources */,
